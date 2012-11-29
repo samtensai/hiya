@@ -1,0 +1,40 @@
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:10:18: error: Tower.h: No such file or directory
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:11:19: error: Turret.h: No such file or directory
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:16:17: error: Wall.h: No such file or directory
+In file included from /Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:18:
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:19: warning: cannot find interface declaration for 'Merlin'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h: In function 'objc_object* -[Merlin initWithWorld:coords:](Merlin*, objc_selector*, b2World*, CGPoint)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:23: error: no super class declared in @interface for 'Merlin'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:24: error: 'maxHp' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:24: error: 'hp' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:25: error: 'buyPrice' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:26: error: 'repairPrice' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:28: warning: 'Merlin' may not respond to '-setupSpritesWithRect:image:atPoint:'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:28: warning: (Messages without a matching method signature
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:28: warning: will be assumed to return 'id' and accept
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:28: warning: '...' as arguments.)
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:34: error: 'body' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:34: error: 'world' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h: In function 'b2Vec2 -[Merlin snapToPosition:](Merlin*, objc_selector*, b2Vec2)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:42: error: 'Wall' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:45: error: 'world' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h: In function 'void -[Merlin targetWasHit:by:](Merlin*, objc_selector*, b2Contact*, Projectile*)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:51: error: no super class declared in @interface for 'Merlin'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h: In function 'void -[Merlin updateView](Merlin*, objc_selector*)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:55: error: 'hp' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:55: error: 'maxHp' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:56: error: request for member 'currentSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:57: error: request for member 'backSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:59: error: request for member 'currentSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:60: error: request for member 'backSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:62: error: request for member 'currentSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:63: error: request for member 'backSprite' in 'self', which is of non-class type 'Merlin*'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:67: error: no super class declared in @interface for 'Merlin'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h: In function 'void -[Merlin finalizePiece](Merlin*, objc_selector*)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:81: error: 'body' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Merlin.h:83: warning: 'Merlin' may not respond to '-finalizePieceBase'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm: In function 'b2Vec2 -[Top snapToPosition:](Top*, objc_selector*, b2Vec2)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:50: error: 'Tower' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:50: error: 'Turret' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:50: warning: 'Merlin' may not respond to '+class'
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Top.mm:50: error: 'Wall' was not declared in this scope

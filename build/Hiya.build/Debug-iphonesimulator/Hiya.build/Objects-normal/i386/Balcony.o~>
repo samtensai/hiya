@@ -1,0 +1,7 @@
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:13:18: error: Tower.h: No such file or directory
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:14:17: error: Wall.h: No such file or directory
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:15:19: error: Merlin.h: No such file or directory
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm: In function 'b2Vec2 -[Balcony snapToPosition:](Balcony*, objc_selector*, b2Vec2)':
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:43: error: 'Wall' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:43: error: 'Tower' was not declared in this scope
+/Users/samchristianlee/Downloads/Keeping Up/iOS/practice/Hiya/Classes/Balcony.mm:43: error: 'Merlin' was not declared in this scope
